@@ -18,7 +18,7 @@ yarn config set registry https://registry.npm.taobao.org
 
 # 安装依赖
 yarn install or npm install
-
+.
 # 启动项目
 yarn dev or npm run dev
 
